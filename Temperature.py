@@ -1,5 +1,5 @@
 import psycopg
-connection = psycopg.connect(host="localhost", dbname="Portal_De_Operações_py", user="postgres", password="DollarBills18!", port=5432)
+connection = psycopg.connect(host="localhost", dbname="*********", user="*******", password="**********", port=5432)
 
 def saving_history(connection, initial_temperature, initial_value, final_temperature, result):
     with connection.cursor() as cursor:
