@@ -16,15 +16,6 @@ Unique converter.
 
 VERSION 3:
 Separated files.
-
-VERSION 4
-Automated tests.
         
-VERSION 5:
+VERSION 4:
 Graphic Interface.
-
-VERSÃO 6
-API.
-        ↓
-VERSÃO 7
-Web application
