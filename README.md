@@ -19,3 +19,5 @@ Separated files.
         
 VERSION 4:
 Graphic Interface.
+
+Following lies the documentation file: (https://github.com/user-attachments/files/31720705/TEMPERATURE.CONVERTER.PROGRAM.DOCUMENTATION.docx)
