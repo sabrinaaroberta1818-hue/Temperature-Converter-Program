@@ -3,13 +3,13 @@ Repository made to present programming abilities in Python and SQL through a pro
 
 SCALABILITY PLANNING:
 
-VERSION 1 (current version):
+VERSION 1:
 Console;
 Python;
 PostgreSQL;
 5 scales.
 
-VERSION 2:
+VERSION 2 (current version):
 Refactoring;
 Normalization;
 Unique converter.
